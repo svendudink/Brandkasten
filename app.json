@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "13c21cad-2700-4f96-994d-c942ba52b312"
+      }
+    },
+    "owner": "svendudink"
   }
 }
